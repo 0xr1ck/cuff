@@ -4,8 +4,11 @@ cryptography tool for CTF challenges!
 
 # INSTALL 
 git clone https://github.com/0xm1cr0/cuff
+
 cd cuff
+
 pip install -r requirements.txt
+
 python3 cuff.py --help 
 
 
