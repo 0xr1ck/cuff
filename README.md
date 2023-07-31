@@ -7,7 +7,8 @@ git clone https://github.com/0xm1cr0/cuff
 
 cd cuff
 
-pip3 install chepy -r requirements.txt
+pip3 install chepy 
+then install -r requirements.txt
 
 python3 cuff.py --help 
 
