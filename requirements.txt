@@ -1,4 +1,3 @@
+chepy-5.1.0
 base58
-base64 
-chepy 
-hashlib
+base64
