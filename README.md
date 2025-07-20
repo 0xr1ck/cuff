@@ -1,4 +1,4 @@
-# cuff 
+# CUFF
 cryptography tool for CTF challenges! 
 
 
